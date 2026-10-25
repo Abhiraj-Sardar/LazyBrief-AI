@@ -1,0 +1,11 @@
+Weekly Product Sync — October 21, 2026
+Attendees: Maya (Product), Ravi (Engineering), Nina (Design)
+
+The team agreed to ship the onboarding improvements in the November release.
+Ravi will prepare the API integration plan by October 28.
+Nina will finalize the updated onboarding mockups by October 26.
+Maya will share the beta feedback summary at the next meeting.
+
+Decision: Keep email sign-in in the first release and defer social login.
+Risk: Mobile accessibility testing is behind schedule. The team will review this risk next week.
+Next meeting: October 29, 2026.
